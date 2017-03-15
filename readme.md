@@ -1,6 +1,6 @@
-### wxWidgets Custom gauge###
+### wxWidgets Custom gauge
 - - -
-####Description ####
+#### Description
 Simple custom gauge class for wxWidgets.
 
 ![Screen](https://dl.dropbox.com/u/440947/cpp/custom-gauge.jpg)
@@ -8,4 +8,4 @@ Simple custom gauge class for wxWidgets.
 
 - - -
 
-####Author: Sergey V. (djkovrik at gmail.com) ####
+#### Author: Sergey V. (djkovrik at gmail.com)
