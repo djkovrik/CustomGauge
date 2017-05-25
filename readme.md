@@ -3,7 +3,7 @@
 #### Description
 Simple custom gauge class for wxWidgets.
 
-![Screen](https://dl.dropbox.com/u/440947/cpp/custom-gauge.jpg)
+![Screen](https://github.com/djkovrik/CustomGauge/blob/master/custom-gauge.jpg)
 
 
 - - -
